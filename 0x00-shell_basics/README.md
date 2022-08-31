@@ -1,1 +1,2 @@
-non empty read me
+This script prints the current working directory.
+
