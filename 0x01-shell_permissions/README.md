@@ -5,3 +5,4 @@ who_am_i prints out current user
 4-empty create hello file
 5-execute gives user execution permission for hello
 6-multiple_permissions adds multiple permissions to hello
+7-everybody gives execution to all
