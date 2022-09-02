@@ -4,3 +4,4 @@ who_am_i prints out current user
 3-new_owner changes owner of hello file to betty
 4-empty create hello file
 5-execute gives user execution permission for hello
+6-multiple_permissions adds multiple permissions to hello
